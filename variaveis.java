@@ -12,5 +12,7 @@ public class variaveis {
         System.out.println("idade: " + idade);
         System.out.println("nota media: " + nota);
         System.out.println("nota media 2: " + nota2);
+        System.out.println(nota2);
+        //da pra printar uma variavel direto como no python
     }
 }
