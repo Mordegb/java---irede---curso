@@ -24,8 +24,6 @@ public class arrays {
             for (int j = 0; j < matriz[i].length; j++){
                 matriz[i][j] = (i + j);
                 System.out.println(matriz[i][j]);
-
-
             }
         }
 
