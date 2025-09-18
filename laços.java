@@ -23,5 +23,15 @@ public class laços {
             j++;
         }while(j < 10);
         //laço em do while
+
+        //laço com for diferenciado
+        float[] notas = {7.4f, 8.6f, 5f};
+            float media = 0;
+        for (float nota : notas) { // percorre cada elemento do array
+            media += nota; //olha cada elemento do array
+        }
+        //ele so não é bom porque ele não trabalha com indices, so sai olhando o array
+        //então não é bom em caso de alteração
+        System.out.println(media);
     }
 }
