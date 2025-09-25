@@ -21,7 +21,8 @@ public class pessoa {
     }
 
     public void setIdade(Integer idade) { //cria uma função para mudar a variavel na main
-        this.idade = idade;
+        this.idade = idade; //o comando "this" basicamente ostra que a a instancia de classe recebe o valor
+                            // e diferencia as variaveis de intancia das locais.
     }
 
     public Integer getIdade() {
