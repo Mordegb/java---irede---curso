@@ -1,0 +1,15 @@
+package HerançaEmpresa;
+
+public class main {
+    public static void main(String[] args) {
+        funcionario f1 = new funcionario();
+        gerente g1 = new gerente();
+        f1.SetIdade(21);
+        System.out.printf("Salario do funcionario: %.2f%n", f1.salario);
+        System.out.println("Salario do gerente: " + g1.salario);
+
+        System.out.println("nivel de acesso do funionario: " + f1.nivelDeAcesso);
+        System.out.println("nivel de acesso do gerente: " + g1.nivelDeAcesso);
+    }
+
+}
