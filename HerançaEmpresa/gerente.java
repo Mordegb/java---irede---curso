@@ -6,4 +6,8 @@ public class gerente {
     public Integer idade;
     protected Float salario = 2500f;
     public Integer nivelDeAcesso = 2;
+
+    public void Setsalario(Float salario){
+        this.salario = salario;
+    }
 }

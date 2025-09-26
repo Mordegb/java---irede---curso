@@ -5,6 +5,7 @@ public class main {
         funcionario f1 = new funcionario();
         gerente g1 = new gerente();
         f1.SetIdade(21);
+        g1.Setsalario(2700f);
         System.out.printf("Salario do funcionario: %.2f%n", f1.salario);
         System.out.println("Salario do gerente: " + g1.salario);
 
