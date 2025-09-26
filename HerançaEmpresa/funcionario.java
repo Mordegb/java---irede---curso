@@ -6,9 +6,12 @@ public class funcionario extends gerente{ // herda os atributos publicos da clas
    public void SetIdade(Integer idade){
         this.idade = idade; //herdou de gerente
    }
-   public void SetSalario(Float salario){
-       this.salario = salario;
-   }
+
+    @Override
+    public void Setsalario(Float salario) {
+        super.Setsalario(salario);
+    }
+
    public Integer getNivelDeAcesso(){
         return nivelDeAcesso;
    }
