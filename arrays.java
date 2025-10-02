@@ -5,7 +5,6 @@ public class arrays {
         Scanner input = new Scanner(System.in);
         // declarar um vertor
         int[] valores = new int[5]; // declara o array e seu tamanho
-
         Integer[] valores2 = {1, 2, 3, 4, 5}; //tmb da pra criar direto.
 
         for (int i = 0; i < valores.length; i++) { // o comando "valores.length"
