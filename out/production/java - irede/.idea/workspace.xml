@@ -4,15 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="683fad40-2bf8-443f-acfe-8dc4f52dd3cc" name="Changes" comment="" />
+    <list default="true" id="683fad40-2bf8-443f-acfe-8dc4f52dd3cc" name="Changes" comment="teste de commit">
+      <change afterPath="$PROJECT_DIR$/HerançaEmpresa/pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HerançaEmpresa/funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/HerançaEmpresa/funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HerançaEmpresa/gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/HerançaEmpresa/gerente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java - irede/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java - irede/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poo/arrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poo/funcoes.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+      <option value="repository" />
+    </option>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -20,35 +35,107 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;assignee&quot;: &quot;Mordegb&quot;
+    }
+  ],
+  &quot;lastFilter&quot;: {
+    &quot;assignee&quot;: &quot;Mordegb&quot;
+  }
+}</component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="35c28874-b146-4c0f-825b-7a33f3429093" />
+  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:Mordegb/java---irede---curso.git&quot;,
+    &quot;accountId&quot;: &quot;35c28874-b146-4c0f-825b-7a33f3429093&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="32f6OBTCdkLr0z0JflEceW02dCQ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.teste1.executor": "Run",
-    "Application.variaveis.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/cadu/progrmas/java - irede",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "proofread"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Throw.executor&quot;: &quot;Run&quot;,
+    &quot;Application.arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.funcoes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.input.executor&quot;: &quot;Run&quot;,
+    &quot;Application.input2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.laços.executor&quot;: &quot;Run&quot;,
+    &quot;Application.main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.mainPessoa.executor&quot;: &quot;Run&quot;,
+    &quot;Application.teste1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.variaveis.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/cadu/progrmas/java - irede&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.23455825&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/poo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.variaveis">
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HerançaEmpresa.main" />
+      <module name="java - irede" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HerançaEmpresa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mainPessoa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mainPessoa" />
+      <module name="java - irede" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="variaveis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variaveis" />
+      <module name="java - irede" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.variaveis" />
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.mainPessoa" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.25557.131" />
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26830.84" />
       </set>
     </attachedChunks>
   </component>
@@ -60,6 +147,55 @@
       <option name="presentableId" value="Default" />
       <updated>1757799244800</updated>
     </task>
+    <task id="LOCAL-00001" summary="README ta atualizado">
+      <option name="closed" value="true" />
+      <created>1757892797374</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1757892797374</updated>
+    </task>
+    <task id="LOCAL-00002" summary="funçoẽs em java">
+      <option name="closed" value="true" />
+      <created>1757892847755</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1757892847755</updated>
+    </task>
+    <task id="LOCAL-00003" summary="pfv funciona">
+      <option name="closed" value="true" />
+      <created>1757893780362</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1757893780362</updated>
+    </task>
+    <task id="LOCAL-00004" summary="teste de commit">
+      <option name="closed" value="true" />
+      <created>1757894269678</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1757894269678</updated>
+    </task>
+    <task id="LOCAL-00005" summary="teste de commit">
+      <option name="closed" value="true" />
+      <created>1757894287431</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1757894287431</updated>
+    </task>
+    <task id="LOCAL-00006" summary="teste de commit">
+      <option name="closed" value="true" />
+      <created>1757894598828</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1757894598828</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -72,6 +208,13 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="README ta atualizado" />
+    <MESSAGE value="funçoẽs em java" />
+    <MESSAGE value="pfv funciona" />
+    <MESSAGE value="teste de commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="teste de commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
