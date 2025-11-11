@@ -21,12 +21,12 @@ public abstract class pessoa {
         this.sexo = sexo;
     }
 
-    void pessoa(String nome, Integer idade, String sexo) {
+    pessoa(String nome, Integer idade, String sexo) {
         this.nome = nome;
         this.idade = idade;
         this.sexo = sexo;
     }
     void apresentar(String nome){
-        System.out.println("muit prazer, meu nome é " +nome);
+        System.out.println("muito prazer, meu nome é " +nome);
     }
 }
