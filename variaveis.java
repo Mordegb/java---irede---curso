@@ -1,6 +1,7 @@
 
 public class variaveis {
     public static void main(String[] args) {
+
         // o nome do tipo de variavel sempre começa com maiusculo
         String nome = "cadu";
         int idade = 19;

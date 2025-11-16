@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="683fad40-2bf8-443f-acfe-8dc4f52dd3cc" name="Changes" comment="teste de commit">
-      <change afterPath="$PROJECT_DIR$/HerançaEmpresa/pessoa.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HerançaEmpresa/funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/HerançaEmpresa/funcionario.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HerançaEmpresa/gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/HerançaEmpresa/gerente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HerançaEmpresa/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/HerançaEmpresa/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HerançaEmpresa/pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/HerançaEmpresa/pessoa.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java - irede/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java - irede/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poo/arrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/poo/funcoes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/variaveis.java" beforeDir="false" afterPath="$PROJECT_DIR$/variaveis.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +96,7 @@
       <recent name="$PROJECT_DIR$/poo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.variaveis">
+  <component name="RunManager" selected="Application.main">
     <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HerançaEmpresa.main" />
       <module name="java - irede" />
@@ -126,8 +126,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.variaveis" />
         <item itemvalue="Application.main" />
+        <item itemvalue="Application.variaveis" />
         <item itemvalue="Application.mainPessoa" />
       </list>
     </recent_temporary>
@@ -135,7 +135,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26830.84" />
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.27397.103" />
       </set>
     </attachedChunks>
   </component>
