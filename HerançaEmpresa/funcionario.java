@@ -9,7 +9,7 @@ public class funcionario extends pessoa{ // herda os atributos publicos da class
         this.salario = salario;
     }
 
-    public void setNivelDeAcesso(Integer nivelDeAcesso) {
+     void setNivelDeAcesso(Integer nivelDeAcesso) {
         this.nivelDeAcesso = nivelDeAcesso;
     }
 

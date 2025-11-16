@@ -30,7 +30,6 @@ public abstract class pessoa {
         this.cargo = cargo;
     }
     void apresentar(){ //não precisa de parametro
-
         System.out.println("muito prazer, meu nome é " + this.nome + "e tenho " + this.idade);
     }
 

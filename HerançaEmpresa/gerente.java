@@ -10,4 +10,9 @@ public class gerente extends funcionario {
     public void Setsalario(Float salario) {
         super.Setsalario(salario);
     }
+
+    @Override
+    void setNivelDeAcesso(Integer nivelDeAcesso) {
+        super.setNivelDeAcesso(nivelDeAcesso);
+    }
 }
