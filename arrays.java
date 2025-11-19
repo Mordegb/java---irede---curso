@@ -1,4 +1,5 @@
 import java.util.Scanner;
+import java.util.ArrayList;
 
 public class arrays {
     public static void main(String[] args) {
@@ -7,7 +8,8 @@ public class arrays {
         int[] valores = new int[5]; // declara o array e seu tamanho
         Integer[] valores2 = {1, 2, 3, 4, 5}; //tmb da pra criar direto.
 
-        for (int i = 0; i < valores.length; i++) { // o comando "valores.length"
+
+        for (int i = 0; i < valores.length; i++) { // o comando "valores.length" da o tamnah do arrau
             valores[i] = input.nextInt();
             valores[i] = (valores[i] * 2);
         }

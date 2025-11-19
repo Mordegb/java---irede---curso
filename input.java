@@ -6,7 +6,7 @@ public class input {
         // o "abaixo" acima é o comando que a gente usa pra inserir variaveis
         Scanner sc = new Scanner(System.in);
 
-        String nome = sc.nextLine(); //pode trocar o "sc pelo oque eu quiser."
+       String nome = sc.nextLine(); //pode trocar o "sc pelo oque eu quiser."
         int idade = sc.nextInt(); // após usar o next,eu completo com o tipo de variavel com primeira letra maiuscula
         double nota = sc.nextDouble();
 

@@ -12,6 +12,7 @@ public class main {
         System.out.printf("Salario do funcionario: %.2f%n", f1.salario);
         System.out.println("Salario do gerente: " + g1.salario);
 
+
         System.out.println("nivel de acesso do funionario: " + f1.nivelDeAcesso);
         System.out.println("nivel de acesso do gerente: " + g1.nivelDeAcesso);
     }

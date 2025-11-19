@@ -33,6 +33,9 @@ public abstract class pessoa {
         System.out.println("muito prazer, meu nome é " + this.nome + "e tenho " + this.idade);
     }
 
+    void latir(){
+        System.out.println("au au");
+    }
     void apresentarFormal(){
         System.out.println("muito prazer,meu nome é  " + this.nome + " e sou " + this.cargo + " dessa empresas!");
     }
